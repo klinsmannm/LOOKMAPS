@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lookmaps</string>
+    <string name="title_activity_maps">LookMap</string>
+    <string name="str_tv_distance_time">Distance</string>
+</resources>
